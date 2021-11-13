@@ -4,7 +4,7 @@
 
 - 🌱 Actualmente estoy estudiando programación
 
-- 💞️ Estoy buscando colaborar para una <a href="https://dissenywebosona.cat/"> Agencia de disseny web</a>
+- 💞️ Estoy buscando colaborar para una Agencia de <a href="https://dissenywebosona.cat/"> disseny web</a>
 
 - 📫 Me puedes contactar dwo.dissenywebosona@gmail.com
 
